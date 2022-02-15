@@ -4,5 +4,5 @@
 
 
 ### Games
-  - 五子棋(Five-in-a-row/Gobang) [Live demo](#)
+  - 五子棋(Five-in-a-row/Gobang) [Live demo](https://ly980408.github.io/Games-LittleJS/games/FIR)
   - 
